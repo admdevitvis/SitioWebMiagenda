@@ -317,7 +317,7 @@ export const LiquidDemoButton = () => {
           onMouseEnter={() => setIsHovered(true)}
           onMouseLeave={() => setIsHovered(false)}>
           <span className="flex items-center justify-center gap-3 px-6 h-full w-full rounded-xl group-hover:text-white text-slate-100 text-lg font-bold tracking-wide whitespace-nowrap drop-shadow-md">
-            Solicitar Demo Gratis
+            Simulador en Vivo
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </span>
         </button>
